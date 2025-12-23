@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✅ Task Manager API
+# ✅ TaskFlow API — Task Management REST API
 
 A secure, minimal, and portfolio-ready **RESTful Task Manager API** built with **Node.js**, **Express**, and **MongoDB (Mongoose)**.  
 Includes **JWT authentication**, **password hashing**, **user/task CRUD**, **filtering/pagination/sorting**, and **avatar upload** with image processing.
@@ -37,7 +37,6 @@ Includes **JWT authentication**, **password hashing**, **user/task CRUD**, **fil
 - [🛣️ Roadmap](#️-roadmap)
 - [🤝 Contributing](#-contributing)
 - [👤 Author](#-author)
-- [📜 License](#-license)
 
 ---
 
