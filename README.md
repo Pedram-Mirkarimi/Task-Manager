@@ -79,7 +79,7 @@ Includes **JWT authentication**, **password hashing**, **user/task CRUD**, **fil
 ## 📁 Project Structure
 
 ```txt
-Task-Manager-API/
+taskflow-api/
 ├─ src/
 │  ├─ controllers/
 │  │  ├─ task.js
@@ -109,8 +109,8 @@ Task-Manager-API/
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/Pedram-Mirkarimi/Task-Manager-API.git
-cd Task-Manager-API
+https://github.com/Pedram-Mirkarimi/taskflow-api.git
+cd taskflow-api
 npm install
 ```
 
