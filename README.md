@@ -136,7 +136,7 @@ Create a file named `.env`:
 
 ```env
 PORT=3000
-MONGODB_URL=mongodb://127.0.0.1:27017/task-manager-api
+MONGODB_URL=mongodb://127.0.0.1:27017/taskflow-api
 JWT_SECRET=yourStrongJwtSecret
 ```
 
