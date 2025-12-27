@@ -1,7 +1,7 @@
 # taskflow-api — Task Manager REST API (Learning Project)
 
 > **Learning / practice project (Lern-/Übungsprojekt).**  
-> Built to strengthen my fundamentals for an **Ausbildung as Fachinformatiker/in für Anwendungsentwicklung (FIAE)** (start: **from 08/2026**).
+> Built to strengthen my fundamentals for an **Ausbildung as Fachinformatiker/in für Anwendungsentwicklung (FIAE)** (start: **ab 08/2026**).
 
 A small REST API for task management to practice **CRUD**, **authentication**, and basic API structure with **Node.js / Express** and **MongoDB (Mongoose)**.
 
@@ -37,7 +37,7 @@ A small REST API for task management to practice **CRUD**, **authentication**, a
 ### Install
 ```bash
 npm install
-````
+```
 
 ### Environment variables
 
