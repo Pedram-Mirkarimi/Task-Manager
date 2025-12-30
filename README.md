@@ -73,4 +73,4 @@ npm run dev
 ## Author
 
 Seyed AmirMohammad Mirkarimi
-GitHub: [https://github.com/Pedram-Mirkarimi](https://github.com/Pedram-Mirkarimi)
+GitHub: https://github.com/S-AmirMohammad-Mirkarimi
